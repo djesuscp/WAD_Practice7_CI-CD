@@ -28,9 +28,9 @@ class BasicTests(unittest.TestCase):
         # Envía solicitud GET a la ruta '/correct'
         result = self.app.get('/wrong')
 
-        # Verifica que la respuesta sea "Something was wrong!"
+        # Verifica que la respuesta sea "Something went wrong!"
         self.assertEqual(result.status_code, 200)
-        self.assertEqual(result.data.decode(), "Something was wrong!")
+        self.assertEqual(result.data.decode(), "Something went wrong!")
 
 
 if __name__ == "__main__":
