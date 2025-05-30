@@ -65,3 +65,7 @@ Dicho repositorio consta de:
 Tal como se ha explicado en otra práctica previa, el usuario deberá seguir las instrucciones del punto 6.2 para [realizar login en Docker Hub a través de la terminal](https://github.com/djesuscp/WAD_Practice5.4_2048.git) de su máquina, así como también deberá tener en cuenta el punto 7.2 para [configurar variables en su repositorio GitHub](https://github.com/djesuscp/WAD_Practice5.4_2048.git).
 
 Una vez realizado esto, en el repositorio forkeado, el usuario podrá acceder al apartado de "Actions" y podrá hacer click sobre el botón "Run workflow" para ejecutar el primer proceso de workflow manual.
+
+![workflow1](./img/manualWorkflow.png)
+
+![workflow2](./img/manualWorkflow2.png)
