@@ -161,7 +161,5 @@ Ahora, si el usuario, en un caso práctico y gracias a esta integración CI-CD l
 De este modo, cuando el usuario realice el siguiente "git push", dentro de su pestaña "Actions" de su repositorio GitHub, podrá comprobar que los test han pasado correctamente, lo que ha dado lugar al comienzo de la construcción de la nueva imagen para su publicación automática en Docker Hub (build and push).
 
 ![goodTest0](./img/goodTest0.png)
-
 ![goodTest2](./img/goodTest2.png)
-
 ![goodTest3](./img/goodTest3.png)
